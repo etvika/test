@@ -8,5 +8,23 @@
 
 import Foundation
 
+public class RunTest{
+    
+    func run(){
+//        println("this is print")
+//        NSLog("this is nslog")
+        var greeting: String = "hello world"
+        var a = 1
+        var b = 2
+        var c = a + b
+        println("Hi,\n\(greeting)")
+    }
+    
+//    func 
+
+}
+
+//edit by lijie 2015/4/23
+
 
 
